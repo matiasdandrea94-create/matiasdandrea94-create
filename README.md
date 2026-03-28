@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi 👋, I'm Matias D'Andrea
 
-<!--
-**matiasdandrea94-create/matiasdandrea94-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--- ### 🧠 About Me
+🔍 Passionate about cybersecurity and ethical hacking
+🛠️ Focused on Web Application Security
+📚 Currently learning advanced exploitation techniques
+⚠️ All my work is for educational and ethical purposes only
+--- ### 🧰 Skills
+💉 SQL Injection
+⚡ XSS (Cross-Site Scripting)
+🔓 Authentication Bypass
+🧪 Bug Bounty Hunting
+--- ### 🛠️ Tools
+Burp Suite • Nmap • Wireshark • Metasploit • Gobuster
+
+--- ### 📂 Projects
+Vulnerable Web App (HTML)	Practice lab with common vulnerabilities
+Security Checklist	Web pentesting methodology
+--- ### ⚠️ Disclaimer
+All content is created for educational purposes only. I do NOT support illegal activities.
+
+--- ### 📫 Contact
+Email

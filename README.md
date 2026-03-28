@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hello, I'm Matias</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=600&lines=Pentester+%7C+Ethical+Hacker;Web+Security+Specialist;Bug+Bounty+Hunter;Offensive+Security+Lover" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=600&lines=Pentester+%7CWeb+Security+Specialist;Bug+Bounty+Hunter;Offensive+Security+Lover" />
 </p>
 
 <hr/>

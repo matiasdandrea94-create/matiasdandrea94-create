@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matias Dandrea</h1>
 <h3 align="center">IT Support | Cybersecurity Enthusiast | Pentester in Progress</h3>
 
-<p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social">
-  </a>
-</p>
-
 ---
 
 <h2>🧑‍💻 About Me</h2>
@@ -25,6 +19,13 @@
 </p>
 
 ---
+
+<h2>📂 Projects</h2>
+<ul>
+  <li><b>Pentesting Toolkit</b> - Scripts and tools for security testing</li>
+  <li><b>IT Support Lab</b> - Troubleshooting simulations and fixes</li>
+</ul>
+
 
 <h2>📂 Projects</h2>
 <ul>

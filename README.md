@@ -15,14 +15,6 @@
 ⚡ Always learning new attack vectors & exploits.
 </p>
 
-<hr/>
-
-<!-- IMAGE LIKE YOUR TEMPLATE -->
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="600"/>
-</p>
-
-<hr/>
 
 <!-- LANGUAGES -->
 <h2>🧰 Languages & Tools</h2>
@@ -70,32 +62,3 @@
 </p>
 
 <hr/>
-
-<!-- CONTACT -->
-<h2>📫 Get in Touch</h2>
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
-<hr/>
-
-<!-- STATS -->
-<h2>📈 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
-
-<hr/>
-
-<!-- QUOTE -->
-<p align="center">
-  <b>"Hack the system. Secure the world." 🔐</b>
-</p>

@@ -4,11 +4,11 @@
 
 
 <!-- ABOUT -->
-<h2>🧠 About Me</h2>
+<h2> About Me</h2>
 <p>
-💀 Passionate about breaking things to make them secure.<br/>
-🔐 Focused on Web Application Security & Pentesting.<br/>
-⚡ Always learning new attack vectors & exploits.
+ Passionate about breaking things to make them secure.<br/>
+ Focused on Web Application Security & Pentesting.<br/>
+ Always learning new attack vectors & exploits.
 </p>
 
 
